@@ -1,5 +1,5 @@
 1.- Menu horizontal <br>
-2.- Tarjeta de seleccion <br>
+2.- Tarjeta animadas <br>
 3.- Tablas <br>
 4.- Animación de notificación <br>
 5.- Login responsivo <br>
