@@ -161,10 +161,6 @@ ion-icon {
 }
 
 @media screen and (max-width: 900px){
-    .form-container{
-        height: 60%;
-    }
-
     .form-container .login-container{
         width: 350px;
     }
