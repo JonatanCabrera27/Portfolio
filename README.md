@@ -2,7 +2,7 @@
 2.- Tarjeta animadas ✔ <br>
 3.- Tablas ✔ <br>
 4.- Animación de notificación ✔ <br>
-5.- Login responsivo <br>
+5.- Login responsivo ✔ <br>
 6.- Barra de progreso circular <br>
 7.- Tabla de precios <br>
 8.- Checkbox custom <br>
