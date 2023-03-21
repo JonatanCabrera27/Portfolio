@@ -4,7 +4,7 @@
 4.- Animación de notificación ✔ <br>
 5.- Login responsivo ✔ <br>
 6.- Barra de progreso circular ✔ <br>
-7.- Tabla de precios <br>
+7.- Tabla de precios ✔ <br>
 8.- Checkbox custom <br>
 9.- Barra de busqueda <br>
 10.- Vuelta a tarjeta <br>
