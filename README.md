@@ -5,8 +5,8 @@
 5.- Login responsivo ✔ <br>
 6.- Barra de progreso circular ✔ <br>
 7.- Tabla de precios ✔ <br>
-8.- Checkbox custom <br>
-9.- Barra de busqueda <br>
+8.- Checkbox custom ✔<br>
+9.- Barra de busqueda ✔<br>
 10.- Vuelta a tarjeta <br>
 11.- UI de comentarios <br>
 12.- Stack de personas <br>
