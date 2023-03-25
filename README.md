@@ -7,7 +7,7 @@
 7.- Tabla de precios ✔ <br>
 8.- Checkbox custom ✔<br>
 9.- Barra de busqueda ✔<br>
-10.- Vuelta a tarjeta <br>
+10.- Vuelta a tarjeta ✔<br>
 11.- UI de comentarios <br>
 12.- Stack de personas <br>
 13.- Menu vertical <br>  
